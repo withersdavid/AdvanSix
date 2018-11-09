@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Account", "Migration\Account.dtproj", "{AB5AFD4A-9D19-45E2-87D2-87F0557370D1}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SAP Partner Functions", "SAP Partner Functions\SAP Partner Functions.dtproj", "{F59C1B64-81B2-4F15-89DD-DD301B608B2F}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SAP DCR", "SAP DCR\SAP DCR.dtproj", "{6929C0D3-C4B5-4757-8A7F-236F44B387DD}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Utilities", "Utilities\Utilities.dtproj", "{71EF7046-DB62-4E9E-B974-888E060C0D1F}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Products", "Products\Products.dtproj", "{CAEBB666-0630-45E5-B656-6C8D346A6CD5}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SFDC_Contacts", "SFDC_Contacts\SFDC_Contacts.dtproj", "{9A687202-DAAB-4409-A8D7-F0C0908B69E6}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Call Reports", "Call Reports\Call Reports.dtproj", "{2E947CF1-8BD1-48BB-AD7E-7FFEF0BADFE6}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SFDC Case", "SFDC Case\SFDC Case.dtproj", "{D08A4883-5775-4417-82B7-074984EA6C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5AFD4A-9D19-45E2-87D2-87F0557370D1}.Development|Default.ActiveCfg = Development
+		{AB5AFD4A-9D19-45E2-87D2-87F0557370D1}.Development|Default.Build.0 = Development
+		{F59C1B64-81B2-4F15-89DD-DD301B608B2F}.Development|Default.ActiveCfg = Development
+		{F59C1B64-81B2-4F15-89DD-DD301B608B2F}.Development|Default.Build.0 = Development
+		{6929C0D3-C4B5-4757-8A7F-236F44B387DD}.Development|Default.ActiveCfg = Development
+		{6929C0D3-C4B5-4757-8A7F-236F44B387DD}.Development|Default.Build.0 = Development
+		{71EF7046-DB62-4E9E-B974-888E060C0D1F}.Development|Default.ActiveCfg = Development
+		{71EF7046-DB62-4E9E-B974-888E060C0D1F}.Development|Default.Build.0 = Development
+		{CAEBB666-0630-45E5-B656-6C8D346A6CD5}.Development|Default.ActiveCfg = Development
+		{CAEBB666-0630-45E5-B656-6C8D346A6CD5}.Development|Default.Build.0 = Development
+		{9A687202-DAAB-4409-A8D7-F0C0908B69E6}.Development|Default.ActiveCfg = Development
+		{9A687202-DAAB-4409-A8D7-F0C0908B69E6}.Development|Default.Build.0 = Development
+		{2E947CF1-8BD1-48BB-AD7E-7FFEF0BADFE6}.Development|Default.ActiveCfg = Development
+		{2E947CF1-8BD1-48BB-AD7E-7FFEF0BADFE6}.Development|Default.Build.0 = Development
+		{D08A4883-5775-4417-82B7-074984EA6C82}.Development|Default.ActiveCfg = Development
+		{D08A4883-5775-4417-82B7-074984EA6C82}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB20CEE-A2F5-4501-97E4-B6FCAF92DA9C}
+	EndGlobalSection
+EndGlobal
